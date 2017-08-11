@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Share</string>
+
+    <string name="read_permission">Read_Only access to Context provider data</string>
+    <string name="write_permission">Both read and write the context provider data</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="share_action_code">Scanning Code</string>
+    <string name="about_share">About Share</string>
+</resources>

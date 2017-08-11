@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--用于定义或标记  组件或软件的失误-->
+    <item name="display_share" type="bool" format="boolean">true</item>
+
+</resources>
